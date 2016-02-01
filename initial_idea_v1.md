@@ -1,4 +1,5 @@
 Brief Background:
+
 Our client, the sustainability team of a major airline, has been tasked with exploring the connection between environmental investment in certain tourist destinations in the caribbean and traveler perception of those destinations. There are already other consultants working on quantitate analysis relating to an airline industry metric of seat/fuel/mile to specific destinations, we want to try and analyze a possible connection between traveler reviews/tweets and destination appeal due to perceived environmental factors.
 
 We are hypothesizing that there is a relationship between sentiment scores of tweets/reviews and perceived environmental condition of a destination.
