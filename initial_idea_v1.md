@@ -8,13 +8,17 @@ Concretely I want to perform sentiment scoring of tweets and reviews for a list 
 
 
 What is the question you hope to answer?
+
 Identify traveler sentiment trends over time to explore possible correlation between environmental factors/events (seaweed event 2011 and 2015, co-ordinated beach cleanup efforts, etc.) and reviews and posts on social media networks (Twitter, Tripadvisor)
 
 What data are you planning to use to answer that question?
+
 Text and geo-location data from Twitter and Tripadvisor reviews for given locations
 
 What do you know about the data so far?
+
 Twitter posts are geo-tagged, people express opinions when traveling and posting their travels
 
 Why did you choose this topic?
+
 Interesting work related to my company
