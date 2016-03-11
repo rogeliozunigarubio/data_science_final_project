@@ -1,0 +1,3 @@
+tripadvisor_downloader
+
+wget --wait=9 --limit-rate=10K --convert-links --convert-links --domains www.tripadvisor.com --recursive --no-parent https://www.tripadvisor.com/Attraction_Review-g147293-d215733
